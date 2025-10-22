@@ -2,6 +2,7 @@
 output/*
 animation/*
 *.pyc
+output/**/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
